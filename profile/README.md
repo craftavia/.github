@@ -1,6 +1,6 @@
 ## Craftavia
 
-Turkish Minecraft network running Towny, Skyblock, BoxPvP, Practice and Survival servers.
+Craftavia is a Turkish Minecraft network with six game modes: SMP, MMORPG Survival, Towny, Skyblock, BoxPvP and Practice. Java and Bedrock players share the same worlds. The [connection guide](https://craftavia.net/craftavia-ip) lists the Java addresses for each mode and the steps for joining on Bedrock.
 
 🌐 [craftavia.net](https://craftavia.net) · 🎮 `play.craftavia.net` (Java & Bedrock) · 💬 [Discord](https://discord.craftavia.net)
 
@@ -18,4 +18,4 @@ We build our own plugins for performance and stability and share the useful ones
 
 ---
 
-Türkiye'nin Minecraft sunucusu Craftavia. Kendi geliştirdiğimiz eklentilerden işe yarayanları burada ücretsiz paylaşıyoruz.
+Craftavia’da Java ve Bedrock oyuncuları SMP, MMORPG Survival, Towny, Skyblock, BoxPvP ve Practice oynuyor. Kendi sunucularımız için geliştirdiğimiz eklentilerden bazılarını burada açık kaynak olarak paylaşıyoruz.
